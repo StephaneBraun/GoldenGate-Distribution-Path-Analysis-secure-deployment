@@ -1,0 +1,1 @@
+# GoldenGate-Distribution-Path-Analysis-secure-deployment
