@@ -35,7 +35,7 @@ Prerequisites:
   
 The oggConnect.properties file contains the following settings:
 
-    oggUrl: http connection string to the GoldenGate Service Manager
+    oggUrl: https connection string to the GoldenGate Service Manager
     defaultDir: directory for generating the Distribution Path statistics file
 
 Example :
